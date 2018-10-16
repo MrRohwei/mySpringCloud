@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="erueka-server" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server (2)" />
+        <module name="service-feign" />
+        <module name="service-feign (1)" />
+        <module name="service-hi" />
+        <module name="service-hi (1)" />
+        <module name="service-hi (2)" />
+        <module name="service-ribbon" />
+        <module name="service-ribbon (1)" />
+        <module name="service-ribbon (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter1" target="1.8" />
+      <module name="chapter1 (1)" target="1.8" />
+      <module name="chapter2" target="1.8" />
+      <module name="chapter3" target="1.8" />
+      <module name="chapter4" target="1.8" />
+      <module name="erueka-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-feign (1)" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-hi (1)" target="1.8" />
+      <module name="service-hi (2)" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon (1)" target="1.8" />
+      <module name="service-ribbon (2)" target="1.8" />
+      <module name="services-hi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
