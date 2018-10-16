@@ -6,18 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
         <module name="erueka-server" />
         <module name="eureka-server" />
         <module name="eureka-server (1)" />
         <module name="eureka-server (2)" />
+        <module name="eureka-server (3)" />
         <module name="service-feign" />
         <module name="service-feign (1)" />
+        <module name="service-feign (2)" />
         <module name="service-hi" />
         <module name="service-hi (1)" />
         <module name="service-hi (2)" />
+        <module name="service-hi (3)" />
         <module name="service-ribbon" />
         <module name="service-ribbon (1)" />
         <module name="service-ribbon (2)" />
+        <module name="service-ribbon (3)" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,18 +33,27 @@
       <module name="chapter2" target="1.8" />
       <module name="chapter3" target="1.8" />
       <module name="chapter4" target="1.8" />
+      <module name="chapter5" target="1.8" />
+      <module name="chapter6" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="erueka-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka-server (1)" target="1.8" />
       <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-feign (1)" target="1.8" />
+      <module name="service-feign (2)" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-hi (1)" target="1.8" />
       <module name="service-hi (2)" target="1.8" />
+      <module name="service-hi (3)" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="service-ribbon (1)" target="1.8" />
       <module name="service-ribbon (2)" target="1.8" />
+      <module name="service-ribbon (3)" target="1.8" />
+      <module name="service-zuul" target="1.8" />
       <module name="services-hi" target="1.8" />
     </bytecodeTargetLevel>
   </component>

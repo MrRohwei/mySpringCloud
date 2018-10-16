@@ -6,18 +6,27 @@
       <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/chapter4.iml" filepath="$PROJECT_DIR$/chapter4/chapter4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/chapter5.iml" filepath="$PROJECT_DIR$/chapter5/chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/chapter6.iml" filepath="$PROJECT_DIR$/chapter6/chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/config-client/config-client.iml" filepath="$PROJECT_DIR$/chapter6/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/config-server/config-server.iml" filepath="$PROJECT_DIR$/chapter6/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter4/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter2/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chapter2/eureka-server/eureka-server (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/eureka-server/eureka-server (2).iml" filepath="$PROJECT_DIR$/chapter3/eureka-server/eureka-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/eureka-server/eureka-server (3).iml" filepath="$PROJECT_DIR$/chapter5/eureka-server/eureka-server (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mySpringCloud.iml" filepath="$PROJECT_DIR$/.idea/mySpringCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/chapter4/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/service-feign/service-feign (1).iml" filepath="$PROJECT_DIR$/chapter3/service-feign/service-feign (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-feign/service-feign (2).iml" filepath="$PROJECT_DIR$/chapter5/service-feign/service-feign (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/chapter4/service-hi/service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter2/service-hi/service-hi (1).iml" filepath="$PROJECT_DIR$/chapter2/service-hi/service-hi (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/service-hi/service-hi (2).iml" filepath="$PROJECT_DIR$/chapter3/service-hi/service-hi (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-hi/service-hi (3).iml" filepath="$PROJECT_DIR$/chapter5/service-hi/service-hi (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/chapter4/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter2/service-ribbon/service-ribbon (1).iml" filepath="$PROJECT_DIR$/chapter2/service-ribbon/service-ribbon (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3/service-ribbon/service-ribbon (2).iml" filepath="$PROJECT_DIR$/chapter3/service-ribbon/service-ribbon (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-ribbon/service-ribbon (3).iml" filepath="$PROJECT_DIR$/chapter5/service-ribbon/service-ribbon (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/chapter5/service-zuul/service-zuul.iml" />
     </modules>
   </component>
 </project>
